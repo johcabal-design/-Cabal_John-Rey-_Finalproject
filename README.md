@@ -24,6 +24,8 @@ When you run the application, follow these steps to manage your finances:
 4.  **Exit:** Select Option `4` to safely close the application and save your data.
 <img width="1851" height="877" alt="screenshot png" src="https://github.com/user-attachments/assets/b9222ccb-90d8-476e-aeba-055440118942" />
 <img width="1534" height="248" alt="Screenshot png (2)" src="https://github.com/user-attachments/assets/fa3db868-6515-4193-aab3-b11904dfe44a" />
+<img width="1341" height="341" alt="Screenshot png (3)" src="https://github.com/user-attachments/assets/9a22d799-5861-4207-a8ec-a97e1ef8c2a6" />
+<img width="1588" height="262" alt="Screenshot png (4)" src="https://github.com/user-attachments/assets/411639df-3e2a-450d-b88c-5d05a5af8232" />
 
 
 # Video Demonstration
