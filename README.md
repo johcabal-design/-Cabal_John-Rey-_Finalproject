@@ -23,6 +23,8 @@ When you run the application, follow these steps to manage your finances:
 3.  **Generate Report:** Select Option `3` to see your total balance in Philippine Peso (₱) and the performance of the recursive calculation.
 4.  **Exit:** Select Option `4` to safely close the application and save your data.
 <img width="1851" height="877" alt="screenshot png" src="https://github.com/user-attachments/assets/b9222ccb-90d8-476e-aeba-055440118942" />
+<img width="1534" height="248" alt="Screenshot png (2)" src="https://github.com/user-attachments/assets/fa3db868-6515-4193-aab3-b11904dfe44a" />
+
 
 # Video Demonstration
 [https://youtu.be/CnPqnFtgEso]
